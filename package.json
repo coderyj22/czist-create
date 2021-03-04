@@ -1,10 +1,10 @@
 {
   "name": "czist-create",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "通过cit命令快速添加页面/组件/Model/Services",
   "main": "index.js",
   "bin": {
-    "czist": "index.js"
+    "cit": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,10 +15,10 @@
     "coderyj",
     "cyj"
   ],
-  "homepage": "https://github.com/coderyj22/cit",
+  "homepage": "https://github.com/coderyj22/czist-create",
   "repository": {
     "type": "git",
-    "url": "https://github.com/coderyj22/cit"
+    "url": "https://github.com/coderyj22/czist-create"
   },
   "author": "coderyj",
   "license": "MIT",
